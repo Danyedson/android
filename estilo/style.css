@@ -67,7 +67,6 @@ header > p {
 header p {
     max-width: 500px;
     display: block;
-    margin: auto;
 }
 
 nav {
