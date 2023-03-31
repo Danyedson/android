@@ -58,9 +58,9 @@ header > p {
     color: rgb(255, 255, 255);
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
-    width: 100%;
+    width: 80%;
     margin: auto;
-    text-align: justify;
+    text-align: center;
     padding: 20px;
 }
 
